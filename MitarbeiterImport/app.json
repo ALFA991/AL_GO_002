@@ -1,0 +1,44 @@
+{
+  "id": "b26f72c3-bdaa-4fac-b4ab-2b1edefa1403",
+  "name": "NAPA Test Multitenant",
+  "publisher":  "Infoniqa Deutschland GmbH",
+  "version":  "24.0003.00241.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "24.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "24.0.0.0"
+    },
+  {
+    "id": "4d8ae59d-77ce-4058-aa55-4f08efbb196c",
+    "publisher":  "Infoniqa Deutschland GmbH",
+    "name": "NAPA3",
+    "version":  "24.0001.00240.0"
+  }],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+    "from": 5082300,
+    "to": 5485156
+    }
+  ],
+  "runtime": "13.0",
+  "target": "OnPrem",
+  "features":["TranslationFile"]
+}

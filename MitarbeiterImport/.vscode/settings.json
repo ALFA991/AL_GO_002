@@ -1,0 +1,10 @@
+{
+    "git.decorations.enabled":  false,
+    "al.assemblyProbingPaths":  [
+                                    "D:/HVDCOMComponent",
+                                    "c:/Windows/assembly/",
+                                    "C:/Program Files/Microsoft Dynamics 365 Business Central/140/Service/Add-ins/",
+                                    "C:/Program Files/Microsoft Dynamics 365 Business Central/200/Service/Add-ins/",
+                                    "C:/Program Files (x86)/Microsoft Dynamics 365 Business Central/140/RoleTailored Client/Add-ins/"
+                                ]
+}
